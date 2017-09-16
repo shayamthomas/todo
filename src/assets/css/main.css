@@ -1,0 +1,23 @@
+html, body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.page_content{
+    margin-top: 10%;
+}
+
+.main_content{
+    padding: 20px;
+}
+
+.list_style{
+    padding: 10px !important;
+}
+
+.add_task{
+    margin-bottom: 1%;
+}
+
+.add_task_field{
+    margin-right: 5px;
+}
